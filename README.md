@@ -1,6 +1,8 @@
 # Notes Application
 
-<img src="https://via.placeholder.com/600x200" alt="Notes Application Logo"/>
+<img src= "https://github.com/DevBhalgamiya/Evol/blob/main/Authentication.png" alt="Authentication Page"/>
+<img src= "https://github.com/DevBhalgamiya/Evol/blob/main/Home%20Page.png" alt="Home Page"/>
+<img src= "https://github.com/DevBhalgamiya/Evol/blob/main/Notes.png" alt="Notes Page"/>
 
 Welcome to the Notes Application, a feature-rich note-taking platform built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). This project is designed with a focus on user-friendly interfaces, efficient note management, and seamless functionality, including image uploads and optional user authentication.
 
